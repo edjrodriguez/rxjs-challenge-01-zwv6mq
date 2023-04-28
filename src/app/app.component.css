@@ -3,3 +3,7 @@
   border: 3px solid rgba(0, 0, 0, 0.2);
   padding: 12px;
 }
+
+.focus:focus-within {
+  border-color: rgba(255, 0, 0, 0.2);
+}
